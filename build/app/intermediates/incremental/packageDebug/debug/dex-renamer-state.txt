@@ -1,0 +1,4 @@
+#Mon Sep 17 20:52:29 ICT 2018
+base.0=E\:\\TechnologyMobile\\Flutter\\game\\flutter_mine_sweeper_tutorial-master\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
